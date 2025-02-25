@@ -1,0 +1,3 @@
+" vim helpers
+let @d='gdV$%:!./distools/comment-js-function.sh'
+let @f='gdV$%:!./distools/comment-js-function-w-history.sh'
